@@ -28,8 +28,8 @@ Welcome to 8-Bit University, a free, open-source course where you can learn prog
 ## Support Us (Coming soon!)
 - 8-Bit University is a non-profit project
 
-## License (Coming soon!)
-- This project is open-source and licensed under [LICENSE NAME]. Feel free to use, modify, and share it according to the terms of the license
+## License
+- This project is open-source and licensed under [Creative Commons](https://github.com/8bituniversity/.github/blob/main/LICENSE.md).
 
 ## People
 - [Roselle Carmen](https://github.com/aninternetian)
