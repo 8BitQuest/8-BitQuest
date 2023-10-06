@@ -16,17 +16,17 @@ Welcome to 8-Bit University, a free, open-source course where you can learn prog
 - Learn about how to use C# to make games
 - get into physics and AI
 
-## How to Contribute (Coming soon!)
-- Report issues, suggest improvements, or submit pull requests on our GitHub repository
-
 ## Community (Coming soon!)
 - Join our community of learners and contributors
 
-## Roadmap
-- Check out our [Roadmap](https://github.com/8bituniversity/.github/blob/main/roadmap.md) to see what's coming next for 8-Bit University
-
 ## Support Us (Coming soon!)
 - 8-Bit University is a non-profit project
+
+## How to Contribute (Coming soon!)
+- Report issues, suggest improvements, or submit pull requests on our GitHub repository
+
+## Roadmap
+- Check out our [Roadmap](https://github.com/8bituniversity/.github/blob/main/roadmap.md) to see what's coming next for 8-Bit University
 
 ## License
 - This project is open-source and licensed under [Creative Commons](https://github.com/8bituniversity/.github/blob/main/LICENSE.md).
