@@ -20,7 +20,7 @@
 - Join our community of learners and contributors
 
 ## Roadmap
-- Check out our [Roadmap]([link-to-roadmap](https://github.com/8bituniversity/.github/blob/main/roadmap.md)https://github.com/8bituniversity/.github/blob/main/roadmap.md) to see what's coming next for 8-Bit University.
+- Check out our [Roadmap](https://github.com/8bituniversity/.github/blob/main/roadmap.md) to see what's coming next for 8-Bit University.
 
 ## Support Us (Coming soon!)
 - 8-Bit University is a non-profit project
