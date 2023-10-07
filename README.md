@@ -5,16 +5,22 @@ Welcome to 8-Bit University, a free, open-source course where you can learn prog
 ## Courses
 
 ### Introduction to Programming with Scratch (Coming soon!)
-- Learn the fundamentals of programming using Scratch, a beginner-friendly block-based programming language
-- Learn the fundamental programming concepts such as variables, conditionals, loops, and event-driven programming
-- Create your own games, animations, and interactive projects
+- Start your coding journey with Scratch, a block-based programming language
+- Learn the fundamentals of programming such as variables, loops, and more
+- Create your own game with hands-on projects
 
-### Intermediate Programming with Godot (C#) (Coming soon!)
+### Intermediate Programming with Pygame (Python) (Coming soon!)
 
-- Take your programming skills to the next level with Godot, a powerful game engine
+- Take your programming skills to the next level with Pygame, a Python library for game development
+- Build upon your programming foundation with computer science fundamentals such as data structures and algorithms
+- Gain practical experience in creating interactive 2D games
+
+### Game development with Godot (C#) (Coming soon!)
+
+- Get into game development with Godot, an open-source game engine
 - Start with Godot basics: scenes, nodes
-- Learn about how to use C# to make games
-- get into physics and AI
+- Learn how to use C# to make games
+- Explore advanced topics like physics simulations and artificial intelligence 
 
 ## Community (Coming soon!)
 - Join our community of learners and contributors
