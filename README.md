@@ -36,7 +36,7 @@ We're looking for someone who could contribute in
 - community outreach and management
 - project management & maintainers
 
-Check out our [Contributing guide](https://github.com/8bituniversity/.github/blob/main/CONTRIBUTING.md) for more details.
+Check out our [Contributing guide](https://github.com/8bituniversity/8bituni/blob/main/.github/CONTRIBUTING.md) for more details.
 
 ## Roadmap
 We're launching the course in a few stages
@@ -44,10 +44,10 @@ We're launching the course in a few stages
 - Stage 2, building a community and website
 - Stage 3 onwards, interactive website with IDE and certifications
 
-Check out our [Roadmap](https://github.com/8bituniversity/.github/blob/main/roadmap.md) for more details.
+Check out our [Roadmap](https://github.com/8bituniversity/8bituni/blob/main/.github/roadmap.md) for more details.
 
 ## License
-- This project is open-source and licensed under [Creative Commons](https://github.com/8bituniversity/.github/blob/main/LICENSE.md).
+- This project is open-source and licensed under [Creative Commons](https://github.com/8bituniversity/8bituni/blob/main/.github/LICENSE.md).
 
 ## People
 - [Roselle Carmen](https://github.com/aninternetian)
