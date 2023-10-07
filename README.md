@@ -48,6 +48,7 @@ Check out our [Roadmap](https://github.com/8bituniversity/8bituni/blob/main/.git
 
 ## License
 - This project is open-source and licensed under [Creative Commons](https://github.com/8bituniversity/8bituni/blob/main/.github/LICENSE.md).
+- [License details](https://github.com/8bituniversity/8bituni/blob/main/.github/LICENSE.md)
 
 ## People
 - [Roselle Carmen](https://github.com/aninternetian)
