@@ -2,15 +2,10 @@
 We'll be building the course in a few stages and we're looking out for contributions. For now, here are the stages of how this course will go.
 
 ## Stage one
-Stage one takes place entirely on github. These are the courses initially offered.
-
-**Introduction to Programming with Scratch**
-- Curriculum Planning and outlining
-- Develop detailed tutorials and exercises for each topic
-
-**Intermediate Programming with Godot (C#)**
-- Curriculum Planning and outlining
-- Develop detailed tutorials and exercises for each topic
+Stage one takes place entirely on github to setup the main courses. Curriculum research and outline will be needed.
+- Introduction to Programming with Scratch
+- Intermediate Programming with Phaser (JavaScript)
+- Game development with Godot (C#)
 
 ## Stage two
 Stage two will be mostly about community engagement and setting up an interactive website
