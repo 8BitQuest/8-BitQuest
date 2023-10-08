@@ -1,4 +1,4 @@
-# 🚀 Welcome to 8-Bit University!
+# 🚀 Welcome to 8-Bit University! 🎮
 Welcome to 8-Bit University, a free, open-source course where you can learn programming by creating games. Our aim is to teach you the fundamentals of computer science in an engaging and accessible experience for learners of all levels. Join us on this exciting journey of learning through hands-on, enjoyable projects.
 
 ## 🕹️ Courses
