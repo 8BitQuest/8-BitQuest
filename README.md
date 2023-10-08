@@ -9,9 +9,9 @@ Welcome to 8-Bit University, a free, open-source course where you can learn prog
 - Learn the fundamentals of programming such as variables, loops, and more
 - Create your own game with hands-on projects
 
-### Intermediate Programming with Pygame (Python) (Coming soon!)
+### Intermediate Programming with Phaser (JavaScript) (Coming soon!)
 
-- Take your programming skills to the next level with Pygame, a Python library for game development
+- Take your programming skills to the next level with Phaser, 
 - Build upon your programming foundation with computer science fundamentals such as data structures and algorithms
 - Gain practical experience in creating interactive 2D games
 
