@@ -38,14 +38,6 @@ This stage and the next ones will likely be possible with funding or donation
 **Interactive website**
 - Create a backend for the website
 - Incorporate features like user profiles, progress tracking, gamification, etc
-- Create an IDE where users can code directly on the website
-
-## Stage four
-This stage takes the website and courses further
-
-**Website course**
-- Create an alternative "Introduction to Programming" course that uses the website IDE
-- Same as above for "Intermediate Programming"
 - Create further in-demand courses
 
 **Certification**
