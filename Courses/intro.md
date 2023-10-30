@@ -14,7 +14,7 @@ Each project you accomplish will be shared with the community for feedback and t
 ### Navigation
 - [Lesson 1 -  Into to Scratch](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#lesson-1---into-to-scratch)
 - [Lesson 2 - Programming basics](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#lesson-2---programming-basics)
-- Lesson 3
+- Lesson 3 - Computational Thinking
 - Lesson 4
 - Lesson 5
 - Lesson 6
@@ -164,7 +164,7 @@ You can clearly see 3 people ahead of you which makes it easy
 
 ### Wait
 Programming happens very fast.
-- The previous program ran 3 times, we just didn’t had a chance to see it
+- The previous program ran 3 times, we just didn’t have a chance to see it
 - Let’s give us some time to read
 - By giving time, we can add the Wait block
 
@@ -188,7 +188,7 @@ Blue is the condition, Red is the action.
 ### Variables
 You can think of a variable like a cardboard box.
 - This box can store information (word, number)
-- It can only one info at a time
+- It can only store one piece of info at a time
 - Consider if you want this variable to change or stay the same
 - It is good practice to give your variable a meaningful name
 
@@ -197,7 +197,7 @@ You can think of a variable like a cardboard box.
 Take a look at the image below, what’s the difference between these two blocks?
 - Set would be the default number of the variable
 - Change would be the number you want to change the variable to
-- You can change this number a lot of times, example
+- You can change this number a lot of times, for example
 - You can increase the health of a player to 3
 
 ![set and change](https://i.imgur.com/bjvaa98.jpg)
@@ -225,3 +225,124 @@ Let’s make a chaser game.
 You can take a look at the tutorial, [Make a chase Game](https://scratch.mit.edu/chase)
 
 ![chaser game](https://i.imgur.com/uDU38wr.jpg)
+
+## Lesson 3 - Computational Thinking
+- Problem-solving approach inspired by computer science
+- Involves breaking down complex problems
+- Identifies patterns and recurring elements
+- Designs step-by-step solutions
+- Promotes systematic, logical, and organized thinking
+- Enhances problem-solving efficiency in various domains
+
+**Navigation**
+- Abstraction
+- Decomposition
+- Pattern Recognition
+- Algorithmic thinking
+- Pseudocode
+- Assignment 1 - Give examples of these tools IRL
+- Assignment 2 - Drawing app
+
+
+### Abstraction
+Using emoji is one example
+- A heart emoji to represent love, affection, or appreciation without needing to show an actual heart
+- A thumbs-up emoji as a symbol of approval or agreement without needing to explain why you approve of something
+- A crying emoji to express sadness or disappointment without necessarily expressing sad feelings
+- Abstraction allows you to zoom in and focus on the necessary details
+
+### Decomposition
+Let’s break down a complex problem, like planning a trip, into smaller tasks
+- Decide where you want to go
+- Plan how you'll get there? Car, plane, train, etc
+- Booking accommodations
+- List the things you want to do and see at the destination
+- Set a budget for the trip
+The key is to break down the problem into smaller, more manageable components so you can do either of these tasks in any order
+
+### Pattern Recognition
+We can find patterns in the weather
+- Are there certain times of year when it's more likely to rain?
+- When is it hot season?
+- Are there certain times when rain is more likely to happen? For example, it might tend to rain at night and get very hot in the midday
+By looking for patterns in the weather, you can start to see if there's a regularity when it rains, which can help you plan accordingly (and maybe pack an umbrella more often!)
+
+### Algorithmic thinking
+It’s all about breaking down a complex problem into smaller steps, like making a peanut butter sandwich!
+1. Grab some bread, peanut butter and butter knife
+2. Open the jar of the peanut butter
+3. Dip the butter knife into the peanut butter
+4. Spread the peanut butter on the bread
+And now we’ve got ourselves a peanut butter sandwich!
+
+Here's a hilarious video on [Exact Instructions](https://www.youtube.com/watch?v=Ct-lOOUqmyY) (You can stop at 1:06)
+
+### Pseudocode
+- Pseudocode is an important part of algorithmic thinking 
+- It is something you can do before you write down actual code
+- That way you can translate it from human language to a programming language for the computer
+- The previous sandwich example is one way you can approach this but pseudocode suggests simplifying it further
+- Learning to write in pseudocode can help you in the future if you’re faced with bugs
+- Here’s an example of how we can use pseudocode
+
+`While true, grab:
+	Bread
+	peanut butter jar
+	butter knife
+If knife has peanut butter = True:
+	Spread peanut butter on bread
+Else:
+	Open peanut butter jar
+	Dip butter knife in jar
+	Knife has peanut butter = True`
+
+### Assignment 1 - Give examples of these tools IRL
+- Now it’s your turn!
+- Let’s go back and take a look at the tools
+- What examples can you give?
+- Try to give a real-life example for each of the tools we've mentioned above
+
+### Assignment 2 - Drawing app
+Let’s say we were to make a drawing app. The feature of the drawing app is this:
+**When the mouse is clicked, we can draw something (black and white)**
+
+How would you implement this drawing app? Write the psuedocode and explain the steps in simple English.
+- What are the things we need?
+- How we can make the drawing app?
+
+Here are the things we need:
+- A pen/pencil to draw
+- A canvas
+- A way to erase the drawing
+
+How we can create a drawing app?
+- Recognise when the mouse is clicked
+- When we click the mouse, we will start to draw
+- When we stop clicking, we will stop to draw
+
+Hints!
+- You'll need to add an extension "Pen" for this to work. Navigate to extensions at the bottom right
+
+![Extension](https://i.imgur.com/Bcurmmv.jpg)
+
+- Click on "Pen"
+
+![pen](https://i.imgur.com/hCiMRNP.jpg)
+
+- Click on the costume of your pen/pencil sprite to edit it
+
+![costume](https://i.imgur.com/mtjnjsO.png)
+
+- Drag the area of your pen/pencil sprite to move it
+
+![drag](https://i.imgur.com/vwKnejc.png)
+
+- You'll need to move the tip of your pen/pencil sprite to the "crosshair"
+
+![crosshair](https://i.imgur.com/ZJWVmQG.png)
+
+- You can try this code if you're stuck
+
+![drawing app](https://i.imgur.com/FAS9c69.jpg)
+
+- Try to see how you can improve on this drawing app
