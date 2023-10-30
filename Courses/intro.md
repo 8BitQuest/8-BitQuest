@@ -14,7 +14,7 @@ Each project you accomplish will be shared with the community for feedback and t
 ### Navigation
 - [Lesson 1 -  Into to Scratch](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#lesson-1---into-to-scratch)
 - [Lesson 2 - Programming basics](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#lesson-2---programming-basics)
-- Lesson 3 - Computational Thinking
+- [Lesson 3 - Computational Thinking](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#lesson-3---computational-thinking)
 - Lesson 4
 - Lesson 5
 - Lesson 6
@@ -235,13 +235,13 @@ You can take a look at the tutorial, [Make a chase Game](https://scratch.mit.edu
 - Enhances problem-solving efficiency in various domains
 
 **Navigation**
-- Abstraction
-- Decomposition
-- Pattern Recognition
-- Algorithmic thinking
-- Pseudocode
-- Assignment 1 - Give examples of these tools IRL
-- Assignment 2 - Drawing app
+- [Abstraction](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#abstraction)
+- [Decomposition](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#decomposition)
+- [Pattern Recognition](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#pattern-recognition)
+- [Algorithmic thinking](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#algorithmic-thinking)
+- [Pseudocode](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#pseudocode)
+- [Assignment 1 - Give examples of these tools IRL](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#assignment-1---give-examples-of-these-tools-irl)
+- [Assignment 2 - Drawing app](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#assignment-2---drawing-app)
 
 
 ### Abstraction
@@ -285,7 +285,8 @@ Here's a hilarious video on [Exact Instructions](https://www.youtube.com/watch?v
 - Learning to write in pseudocode can help you in the future if you’re faced with bugs
 - Here’s an example of how we can use pseudocode
 
-`While true, grab:
+```
+While true, grab:
 	Bread
 	peanut butter jar
 	butter knife
@@ -294,7 +295,8 @@ If knife has peanut butter = True:
 Else:
 	Open peanut butter jar
 	Dip butter knife in jar
-	Knife has peanut butter = True`
+	Knife has peanut butter = True
+```
 
 ### Assignment 1 - Give examples of these tools IRL
 - Now it’s your turn!
@@ -304,6 +306,7 @@ Else:
 
 ### Assignment 2 - Drawing app
 Let’s say we were to make a drawing app. The feature of the drawing app is this:
+
 **When the mouse is clicked, we can draw something (black and white)**
 
 How would you implement this drawing app? Write the psuedocode and explain the steps in simple English.
