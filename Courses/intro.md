@@ -12,7 +12,7 @@ Each project you accomplish will be shared with the community for feedback and t
 - If you really can’t solve it, try asking for help
 
 ### Navigation
-- [Lesson 1 -  Into to Scratch]([https://github.com/8bituniversity/8bituni/edit/main/Courses/intro.md#into-to-scratch](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#lesson-1---into-to-scratch))
+- [Lesson 1 -  Into to Scratch](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#lesson-1---into-to-scratch)
 - Lesson 2
 - Lesson 3
 - Lesson 4
