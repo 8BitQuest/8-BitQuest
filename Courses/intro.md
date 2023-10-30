@@ -13,7 +13,7 @@ Each project you accomplish will be shared with the community for feedback and t
 
 ### Navigation
 - [Lesson 1 -  Into to Scratch](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#lesson-1---into-to-scratch)
-- Lesson 2
+- Lesson 2 - Programming basics
 - Lesson 3
 - Lesson 4
 - Lesson 5
@@ -115,10 +115,108 @@ What to do
 - Get the sprites to interact with each other
 - The sprites can move or change size
 
-You may look at the tutorial for ideas.
+You can take a look at the tutorial, [Create a story](https://scratch.mit.edu/story)
 
-![tutorial](https://i.imgur.com/LR9f4oR.png)
+![create a story](https://i.imgur.com/E5LkuVI.jpg)
 
-Click on "Create a story"
+## Lesson 2 - Programming basics
+**Navigation**
+- Forever
+- Repeat n
+- Wait
+- If
+- Variables
+- Assignment 1 - Clicker game
+- Assignment 2 - Clicker game
 
-![create a story](https://i.imgur.com/C1fC1SN.png)
+### Forever
+
+Let’s consider this statement. Let’s say you’re waiting for your bus, we'll call it 123
+
+**Forever keep checking for my bus to arrive**
+
+1. You wait at the bus stop
+2. You check what bus has arrived
+3. You see that it’s not your bus
+4. Return to step 1
+
+How many times do you think you’ll need to go through this loop?
+You don’t know how many buses will come until your bus does. So you need to keep checking each time until your bus comes then you can board it.
+
+- Here is one way we can represent this on scratch
+
+![forever](https://i.imgur.com/pZXqYzR.jpg)
+
+### Repeat n
+Instead of repeating something forever, you can repeat something a number a certain number of times.
+Let’s say you’re waiting in line to collect your food.
+
+**There are 3 people ahead of you in a queue**
+
+1. You wait for person one to collect their food
+2. You wait for person two to collect their food
+3. You wait for person three to collect their food
+4. You can finally collect your food
+
+You can clearly see 3 people ahead of you which makes it easy
+
+![repeat n](https://i.imgur.com/DMed52g.jpg)
+
+### Wait
+Programming happens very fast.
+- The previous program ran 3 times, we just didn’t had a chance to see it
+- Let’s give us some time to read
+- By giving time, we can add the Wait block
+
+![wait](https://i.imgur.com/Nkb5P1R.jpg)
+
+### If
+Let’s consider this statement:
+
+![if](https://i.imgur.com/QHKRRuQ.jpg)
+
+**If no apple (blue), say I’m hungry (red)
+Else, say Yum (red)**
+
+Blue is the condition, Red is the action.
+What’s missing from the above?
+Scratch might not be hungry
+
+![if in scratch](https://i.imgur.com/SZ4033r.jpg)
+
+### Variables
+You can think of a variable like a cardboard box.
+- This box can store information (word, number)
+- It can only one info at a time
+- Consider if you want this variable to change or stay the same
+- It is good practice to give your variable a meaningful name
+![variables](https://i.imgur.com/4jebr48.jpg)
+
+Take a look at the image below, what’s the difference between these two blocks?
+- Set would be the default number of the variable
+- Change would be the number you want to change the variable to
+- You can change this number a lot of times, example
+- You can increase the health of a player to 3
+![set and change](https://i.imgur.com/bjvaa98.jpg)
+
+### Assignment 1 - Clicker game
+Let’s make a clicker game.
+- Choose a sprite
+- Choose a background
+- Add a sound effect when sprite is clicked
+- Add a score to keep track of the clicks
+- How can you make the game more exciting?
+
+You can take a look at the tutorial, [Make a clicker Game](https://scratch.mit.edu/clicker)
+![clicker game](https://i.imgur.com/JXPxvdo.jpg)
+
+### Assignment 2 - Chaser game
+Let’s make a chaser game.
+- Choose 2 sprites
+- Choose a background
+- Create a score
+- Move one sprite
+- Enhance game!
+
+You can take a look at the tutorial, [Make a chase Game](https://scratch.mit.edu/chase)
+![chaser game](https://i.imgur.com/uDU38wr.jpg)
