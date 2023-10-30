@@ -23,7 +23,7 @@ Each project you accomplish will be shared with the community for feedback and t
 
 **Navigation**
 - [Create an account](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#create-an-account)
-- Stage area
+- [Stage area](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#stage-area)
 - [Coordinates](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#coordinates)
 - [Sprite info](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#sprite-info)
 - [Assignment - Create a story animation](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#assignment---create-a-story-animation)
