@@ -13,7 +13,7 @@ Each project you accomplish will be shared with the community for feedback and t
 
 ### Navigation
 - [Lesson 1 -  Into to Scratch](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#lesson-1---into-to-scratch)
-- Lesson 2 - Programming basics
+- [Lesson 2 - Programming basics](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#lesson-2---programming-basics)
 - Lesson 3
 - Lesson 4
 - Lesson 5
@@ -121,13 +121,13 @@ You can take a look at the tutorial, [Create a story](https://scratch.mit.edu/st
 
 ## Lesson 2 - Programming basics
 **Navigation**
-- Forever
-- Repeat n
-- Wait
-- If
-- Variables
-- Assignment 1 - Clicker game
-- Assignment 2 - Clicker game
+- [Forever](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#forever)
+- [Repeat n](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#repeat-n)
+- [Wait](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#wait)
+- [If](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#if)
+- [Variables](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#variables)
+- [Assignment 1 - Clicker game](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#assignment-1---clicker-game)
+- [Assignment 2 - Clicker game](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#assignment-2---chaser-game)
 
 ### Forever
 
@@ -175,12 +175,12 @@ Let’s consider this statement:
 
 ![if](https://i.imgur.com/QHKRRuQ.jpg)
 
-**If no apple (blue), say I’m hungry (red)
-Else, say Yum (red)**
+**If no apple (blue), say I’m hungry (red)**
+**Else, say Yum (red)**
 
 Blue is the condition, Red is the action.
-What’s missing from the above?
-Scratch might not be hungry
+- What’s missing from the above?
+- Scratch might not be hungry
 
 ![if in scratch](https://i.imgur.com/SZ4033r.jpg)
 
@@ -190,6 +190,7 @@ You can think of a variable like a cardboard box.
 - It can only one info at a time
 - Consider if you want this variable to change or stay the same
 - It is good practice to give your variable a meaningful name
+
 ![variables](https://i.imgur.com/4jebr48.jpg)
 
 Take a look at the image below, what’s the difference between these two blocks?
@@ -197,6 +198,7 @@ Take a look at the image below, what’s the difference between these two blocks
 - Change would be the number you want to change the variable to
 - You can change this number a lot of times, example
 - You can increase the health of a player to 3
+
 ![set and change](https://i.imgur.com/bjvaa98.jpg)
 
 ### Assignment 1 - Clicker game
@@ -208,6 +210,7 @@ Let’s make a clicker game.
 - How can you make the game more exciting?
 
 You can take a look at the tutorial, [Make a clicker Game](https://scratch.mit.edu/clicker)
+
 ![clicker game](https://i.imgur.com/JXPxvdo.jpg)
 
 ### Assignment 2 - Chaser game
@@ -219,4 +222,5 @@ Let’s make a chaser game.
 - Enhance game!
 
 You can take a look at the tutorial, [Make a chase Game](https://scratch.mit.edu/chase)
+
 ![chaser game](https://i.imgur.com/uDU38wr.jpg)
