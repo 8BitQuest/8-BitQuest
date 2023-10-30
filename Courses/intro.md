@@ -21,6 +21,13 @@ Each project you accomplish will be shared with the community for feedback and t
 
 ## Lesson 1 - Into to Scratch
 
+**Navigation**
+- [Create an account](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#create-an-account)
+- Stage area
+- [Coordinates](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#coordinates)
+- [Sprite info](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#sprite-info)
+- [Assignment - Create a story animation](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#assignment---create-a-story-animation)
+
 We’re going to take a look at Scratch and use it to learn about programming
 Why Scratch? Isn’t it for Kids?
 - It's suitable for all ages and backgrounds
@@ -42,6 +49,8 @@ Why Scratch? Isn’t it for Kids?
 - You will see the GUI.
 
 ![Scratch GUI](https://i.imgur.com/flJSnWv.png)
+
+### Stage area
 
 Let's take a moment to understand what's going on
 
