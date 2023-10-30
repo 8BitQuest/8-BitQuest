@@ -176,6 +176,7 @@ Let’s consider this statement:
 ![if](https://i.imgur.com/QHKRRuQ.jpg)
 
 **If no apple (blue), say I’m hungry (red)**
+
 **Else, say Yum (red)**
 
 Blue is the condition, Red is the action.
