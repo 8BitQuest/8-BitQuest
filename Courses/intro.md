@@ -28,7 +28,7 @@ Why Scratch? Isn’t it for Kids?
 - It’s easy to learn and user-friendly
 - It has a block-based interface, where you can drag and drop blocks for programming
 
-**Create an account**
+### Create an account
 
 - Navigate to [Scratch](https://scratch.mit.edu/)
 - Click the “Join Scratch” button to sign up
@@ -47,28 +47,28 @@ Let's take a moment to understand what's going on
 
 ![Scratch areas](https://i.imgur.com/pR7ZUht.jpg)
 
-*Blocks menu*
+**Blocks menu**
 - Click on any colored circle in the blocks menu
 - This is a shortcut that will take you to what you're looking for
 
-*Blocks list*
+**Blocks list**
 - This is where you can find the blocks of code
 
-*Script area*
+**Script area**
 - This is where you can drag the blocks to combine them
 
-*Start/Stop*
+**Start/Stop**
 - This is how you can start and stop your program
 
-*Stage*
+**Stage**
 - This is how the program will look like to users
 - There is a maximize button that you can use if it's too small
 - The cat in the middle of the stage is Scratch
 
-*Sprite zones*
+**Sprite zones**
 - This will be where all your sprites are shown
 
-**Coordinates**
+### Coordinates
 - Click the button on the bottom right.
 - if you hover over it, it will show "Choose a backdrop"
 
@@ -84,7 +84,7 @@ Let's take a moment to understand what's going on
 
 - This is how you'll know where Scratch is moving
 
-**Sprite info**
+### Sprite info
 
 Let's take a look at the area below the stage
 
@@ -95,7 +95,7 @@ Let's take a look at the area below the stage
 - You can also see the size and direction
 - Try moving scratch around to see what's reflected in this area
 
-**Create a story animation**
+### Assignment - Create a story animation
 
 Choose the following
 - 2 sprites
