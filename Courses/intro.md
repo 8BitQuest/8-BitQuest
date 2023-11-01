@@ -12,12 +12,35 @@ Each project you accomplish will be shared with the community for feedback and t
 - If you really can’t solve it, try asking for help
 
 ### Navigation
-- [Lesson 1 -  Into to Scratch](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#lesson-1---into-to-scratch)
-- [Lesson 2 - Programming basics](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#lesson-2---programming-basics)
-- [Lesson 3 - Computational Thinking](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#lesson-3---computational-thinking)
-- Lesson 4
-- Lesson 5
-- Lesson 6
+1. [Lesson 1 -  Into to Scratch](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#lesson-1---into-to-scratch)
+- Understanding the GUI
+- Understanding game aesthetics 
+- Assignment - Create a story game
+
+2. [Lesson 2 - Programming basics](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#lesson-2---programming-basics)
+- Understanding inputs, events and outputs
+- Basic blocks (forever, if, wait, variables, etc)
+- Learning about game mechanics and pseudocode
+- Assignment 1 - Clicker game
+- Assignment 2 - Chaser game
+
+3. [Lesson 3 - Computational Thinking](https://github.com/8bituniversity/8bituni/blob/main/Courses/intro.md#lesson-3---computational-thinking)
+- Abstraction, Pattern recognition, etc
+- Understanding flowcharts
+- Assignment - Drawing app
+
+4. Lesson 4 - Pong
+- Learning how to make pong
+- Learning about multi-threaded programming
+
+5. Lesson 5 - Pong+
+- Make pong 2 player
+- Learn about functions and broadcasting
+
+6. Lesson 6 - Project
+- Learn about the project lifecycle
+- Collect feedback
+- Presentation
 
 ## Lesson 1 - Into to Scratch
 
