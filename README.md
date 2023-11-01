@@ -5,14 +5,14 @@ Join us on this exciting journey of learning through hands-on, enjoyable project
 
 ## 🕹️ Courses
 
-### 🐈 Introduction to Programming with Scratch (Coming soon!)
+### 🐈 Introduction to Programming with Scratch (In progress!)
 - Embark on your coding odyssey with Scratch, a user-friendly block-based language
 - Discover the fundamentals of programming by mastering concepts like variables, loops, and more
 - Build engaging games with hands-on projects
 
-### 👾 Intermediate Programming with Phaser (JavaScript) (Coming soon!)
-- Level up your coding skills with Phaser, 2D game engine
-- Get your feet wet with JavaScript text-based programming that runs in the browser
+### 👾 Intermediate Programming with Construct 3 (JavaScript) (Coming soon!)
+- Level up your coding skills with Construct 3, a 2D game engine
+- Start with the no-code editor and move into JavaScript
 - Dive into computer science fundamentals such as data structures and algorithms
 
 ### 🤖 Game development with Godot (C#) (Coming soon!)
