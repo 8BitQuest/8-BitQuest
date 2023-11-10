@@ -1,5 +1,5 @@
-# 🚀 Welcome to 8-Bit University! 🎮
-Welcome to 8-Bit University, a free, open-source course where you can learn programming by making games. Our aim is to teach you the fundamentals of computer science in an engaging and accessible experience for learners of all levels.
+# 🚀 Welcome to 8-Bit Coding! 🎮
+Welcome to 8-Bit Coding, a free, open-source course where you can learn programming by making games. Our aim is to teach you the fundamentals of computer science in an engaging and accessible experience for learners of all levels.
 Why games? While playing games, you might find that you fail unless you try something new. By doing so, you might find that you're progressing. This in turn reinforces your motivation to simply try again. That is the resilience and growth mindset we wish to transfer over to real life, starting with education. Learning how to make games increases our gamified learning experience, the outcome is a strong progress in personal growth because the motivation is mainly for fun and personal interest.
 Join us on this exciting journey of learning through hands-on, enjoyable projects.
 
