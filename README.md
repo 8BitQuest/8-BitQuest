@@ -15,9 +15,9 @@ Join us on this exciting journey of learning through hands-on, enjoyable project
 - Start with the no-code editor and move into JavaScript
 - Dive into computer science fundamentals such as data structures and algorithms
 
-### 🤖 Game development with Godot (C#) (Coming soon!)
-- Get into game development with Godot, an open-source game engine
-- Start with Godot basics: scenes, nodes and the power of C#
+### 🤖 Game development with Pygame (Python) (Coming soon!)
+- Dive into game development using Pygame, an open source library.
+- Explore game design principles and coding techniques using Pygame.
 - Explore advanced topics like physics simulations and artificial intelligence 
 
 ## 👯 Community (Coming soon!)
@@ -38,7 +38,7 @@ Check out our [Contributing guide](https://github.com/8bituniversity/8bituni/blo
 
 ## 🛣️ Roadmap
 We're launching the course in a few stages
-- Stage 1, setup courses on github
+- Stage 1, develop full curriculum
 - Stage 2, building a community and website
 - Stage 3 onwards, interactive website with IDE and certifications
 
