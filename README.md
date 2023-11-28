@@ -50,3 +50,4 @@ Check out our [Roadmap](https://github.com/8bituniversity/8bituni/blob/main/.git
 
 ## 💃🏿 People
 - [Roselle Carmen](https://github.com/aninternetian)
+- [Lex Andreev](https://github.com/Ystyr)
