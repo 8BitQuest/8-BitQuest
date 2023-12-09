@@ -63,7 +63,7 @@ Why Scratch? Isn’t it for Kids?
 - Navigate to [Scratch](https://scratch.mit.edu/)
 - Click the “Join Scratch” button to sign up
 
-![join](https://i.imgur.com/BJ9hJVI.jpg)
+![join](https://github.com/8BitQuest/8-BitQuest/blob/7e0898f6033dc2651e620c104d7eb6f4d22e808a/Courses/2-Scratch/pictures/01-01.jpg)
 
 - Once you've logged in, click on "Create".
 
