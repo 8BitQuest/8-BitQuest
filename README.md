@@ -1,21 +1,21 @@
-# 🚀 Welcome to 8-Bit University! 🎮
-Welcome to 8-Bit University, a free, open-source course where you can learn programming by creating games. Our aim is to teach you the fundamentals of computer science in an engaging and accessible experience for learners of all levels. Join us on this exciting journey of learning through hands-on, enjoyable projects.
+# 🚀 Welcome to 8-Bit Quest! 🎮
+Welcome to 8-Bit Quest, a free, open-source coding course created for beginners. We will embark on a programming quest through a hands-on, intuitive way, by making games. Our focus is on coding competency with key game development concepts. Learn core computer science foundations which empowers you to explore other domains. Experience learning in a gamified way to gain a foundational knowledge of programming. Join us now on this exciting quest!
 
 ## 🕹️ Courses
 
-### 🐈 Introduction to Programming with Scratch (Coming soon!)
+### 🐈 Introduction to Programming with Scratch (In progress!)
 - Embark on your coding odyssey with Scratch, a user-friendly block-based language
 - Discover the fundamentals of programming by mastering concepts like variables, loops, and more
 - Build engaging games with hands-on projects
 
-### 👾 Intermediate Programming with Phaser (JavaScript) (Coming soon!)
-- Level up your coding skills with Phaser, 2D game engine
-- Get your feet wet with JavaScript text-based programming that runs in the browser
+### 👾 Intermediate Programming with Construct 3 (JavaScript) (Coming soon!)
+- Level up your coding skills with Construct 3, a 2D game engine
+- Start with the no-code editor and move into JavaScript
 - Dive into computer science fundamentals such as data structures and algorithms
 
-### 🤖 Game development with Godot (C#) (Coming soon!)
-- Get into game development with Godot, an open-source game engine
-- Start with Godot basics: scenes, nodes and the power of C#
+### 🤖 Game development with Pygame (Python) (Coming soon!)
+- Dive into game development using Pygame, an open-source library.
+- Explore game design principles and coding techniques using Pygame.
 - Explore advanced topics like physics simulations and artificial intelligence 
 
 ## 👯 Community (Coming soon!)
@@ -36,7 +36,7 @@ Check out our [Contributing guide](https://github.com/8bituniversity/8bituni/blo
 
 ## 🛣️ Roadmap
 We're launching the course in a few stages
-- Stage 1, setup courses on github
+- Stage 1, develop a full curriculum
 - Stage 2, building a community and website
 - Stage 3 onwards, interactive website with IDE and certifications
 
@@ -48,3 +48,4 @@ Check out our [Roadmap](https://github.com/8bituniversity/8bituni/blob/main/.git
 
 ## 💃🏿 People
 - [Roselle Carmen](https://github.com/aninternetian)
+- [Lex Andreev](https://github.com/Ystyr)

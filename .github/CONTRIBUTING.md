@@ -15,7 +15,8 @@ Subjected to update
 - Research and create a curriculum
 - Create hands-on tutorials and guides
 - Update the course
-- Computer science foundation
+- Preferably had survived CS50
+- Utilise gamification for education [see here for more details](https://www.youtube.com/watch?v=MuDLw1zIc94)
 
  **Website development**
  - Back and front end
