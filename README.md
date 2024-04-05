@@ -1,5 +1,5 @@
-# 🚀 Welcome to 8-Bit Quest! 🎮
-Welcome to 8-Bit Quest, a free, open-source coding course created for beginners. We will embark on a programming quest through a hands-on, intuitive way, by making games. Our focus is on coding competency with key game development concepts. Learn core computer science foundations which empowers you to explore other domains. Experience learning in a gamified way to gain a foundational knowledge of programming. Join us now on this exciting quest!
+# 🚀 Welcome to 8Bit Quest! 🎮
+Welcome to 8Bit Quest, a free, open-source coding course created for beginners. We will embark on a programming quest through a hands-on, intuitive way, by making games. Our focus is on coding competency with key game development concepts. Learn core computer science foundations which empowers you to explore other domains. Experience learning in a gamified way to gain a foundational knowledge of programming. Join us now on this exciting quest!
 
 ### 🐈 Introduction to Programming with Scratch (In progress!)
 - Embark on your coding odyssey with Scratch, a user-friendly block-based language
