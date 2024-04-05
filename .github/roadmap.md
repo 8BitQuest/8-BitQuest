@@ -1,14 +1,11 @@
-# 8-Bit University's roadmap!
+# 8-Bit Quest roadmap!
 We'll be building the course in a few stages and we're looking out for contributions. For now, here are the stages of how this course will go.
 
 ## Stage one
-Stage one takes place entirely on github to setup the main courses. Curriculum research and outline will be needed.
-- Introduction to Programming with Scratch
-- Intermediate Programming with Phaser (JavaScript)
-- Game development with Godot (C#)
+Stage one is about finalising the curriculum. Research, testing and outline will be needed.
 
 ## Stage two
-Stage two will be mostly about community engagement and setting up an interactive website
+Stage two will be mostly about setting up a website and community engagement.
 
 **Website Development**
 - Design and develop the interactive learning website for 8-Bit University
@@ -23,13 +20,12 @@ Stage two will be mostly about community engagement and setting up an interactiv
 - Create a FAQ about the course and other details
 
 **Getting funded**
-- Register as a non-profit
 - setup company values, about, etc
 - Setup donations possibilities
 - Setup merch shop
 
 ## Stage three
-This stage and the next ones will likely be possible with funding or donation
+This stage and the next ones will likely be possible with funding
 
 **Interactive website**
 - Secure backend
